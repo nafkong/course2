@@ -1,7 +1,7 @@
 /*#include<iostream>
 #include <opencv2/opencv.hpp>
 #include<opencv2/highgui.hpp>
-using namespace std; 
+using namespace std;  
 using namespace cv;
 int main() {
 	Mat srcMat = imread("C:/Users/admin/Desktop/messi.jpg");
