@@ -3,7 +3,7 @@
 #include<opencv2/highgui.hpp>
 
 using namespace cv;
-using namespace std;
+using namespace std; 
 
 int main()
 {

@@ -17,7 +17,7 @@
 //			if (average > threshold)
 //				average = 255;
 //			else
-//				average = 0;
+//				average = 0; 
 //			srcMat.at<Vec3b>(i, j)[0] = average;
 //			srcMat.at<Vec3b>(i, j)[1] = average;
 //			srcMat.at<Vec3b>(i, j)[2] = average;

@@ -14,7 +14,7 @@ int main()
 	for (int i = 0; i < height; i++) {
 		for (int j = 0; j < width; j++) {
 			uchar average = (srcM.at<Vec3b>(i, j)[0] + srcM.at<Vec3b>(i, j)[1] + srcM.at<Vec3b>(i, j)[2]) / 3;
-			uchar threshold = 100;
+			uchar threshold = 100; 
 			if (average > threshold)
 				average = 255;
 			else
