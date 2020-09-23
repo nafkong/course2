@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include <opencv2/opencv.hpp>
 #include<opencv2/highgui.hpp>
 using namespace std;  
@@ -17,4 +17,4 @@ int main() {
 	}
 	imshow("src", srcMat);
 	waitKey(0);
-}*/
+}
